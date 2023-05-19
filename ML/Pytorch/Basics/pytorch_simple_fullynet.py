@@ -11,7 +11,7 @@ Programmed by Aladdin Persson
               check_accuracy which would only work specifically on MNIST.
 * 2022-09-23: Updated with more detailed comments, docstrings to functions, and checked code still functions as intended.
 """
-
+# Further comments
 # Imports
 import torch
 import torch.nn.functional as F  # Parameterless functions, like (some) activation functions
